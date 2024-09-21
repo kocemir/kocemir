@@ -6,7 +6,7 @@
   
 - 🔭 I’m currently working at the intersection of deep learning and computational biology, particularly in transcriptomics studies. Recently, I have completed my first project that explores the utilization of LLMs and GNNs in cell type annotation task with scRNA-seq data. The work is submitted to a prestigious journal, IEEE TSIPN, is still under review. I am aheading to work on more of the similar projects. 
 
-- 🌱 Nowadays, I am learning more on biology, genomics and novel LLM-based models specifically designed for tasks based on scRNA-seq data analysis.
+- 🌱 Nowadays, I am learning more on biology, genomics and novel LLM-based models specifically designed for tasks based on scRNA-seq data analysis. I would love to work on related fields that combines AI and medicine.
 
 - 📫 How to reach me: emirhan.koc@bilkent.edu.tr
 <!--
