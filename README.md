@@ -1,6 +1,7 @@
 ## Hi, I am Emirhan Koç 👋
 
 - ⚡I have recently completed my master's studies at Bilkent University, and pursuing my doctoral studies at the same university.
+-  :monocle_face: 
 
 - 🔭 I’m currently working at the intersection of deep learning and computational biology, particularly in transcriptomics studies. Recently, I have completed my first project that explores the utilization of LLMs and GNNs in cell type annotation task with scRNA-seq data. The work is submitted to a prestigious journal, IEEE TSIPN, is still under review. I am aheading to work on more of the similar projects. 
 
